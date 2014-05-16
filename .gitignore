@@ -1,5 +1,5 @@
 node_modules
 dist
-.tmp 
+.tmp
 .DS_Store
 app/bower_components

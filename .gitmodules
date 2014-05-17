@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:Poltergeist/heart-for-coding.git
+	branch = gh-pages

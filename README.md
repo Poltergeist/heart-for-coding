@@ -1,7 +1,13 @@
 # heart for coding
 ---
 I felt I had to say how much I like coding JavaScript. So I created this project. I challenged myself to produce a JavaScript with less then 1024 byte currently I am
-at 731 byte. I try to get to 603 anyway ```String.fromCharCode(60)``` + 3 returns ```<3```
+at 731 byte. I try to get to 603 anyway 
+```
+String.fromCharCode(60) + 3
+``` returns 
+```
+<3
+```
 ---
 ## First Idea was
 The idea is to have a heart which grows.

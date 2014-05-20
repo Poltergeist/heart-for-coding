@@ -4,7 +4,8 @@ I felt I had to say how much I like coding JavaScript. So I created this project
 at 731 byte. I try to get to 603 anyway 
 ```
 String.fromCharCode(60) + 3
-``` returns 
+``` 
+returns 
 ```
 <3
 ```
